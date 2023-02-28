@@ -1,0 +1,67 @@
+
+Body {background-color: #ccdaf3;}
+
+* {
+    color: rgb(89, 0, 255)
+}
+p {
+    color: rgb(255, 0, 0);
+}
+
+/**
+ Esto es un comentario dentro de un documento CSS
+*/
+
+#mifoto{
+  margin: 5px;
+  border: solid 4px black;
+}
+
+
+fieldset{
+   margin-bottom: 10px;
+}
+
+legend{
+  font-family: Helvetica;
+  color:rgb(255, 0, 0);
+  border: solid 1px rgb(2, 2, 2);
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 20px;
+  background: rgb(247, 209, 175);
+}
+
+
+h1 {
+  
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: rgb(1, 65, 70);
+  }
+ 
+
+#mi_parrafo {
+  color:rgb(2, 85, 20);
+  font-size: 15px;
+  
+  }
+
+.estaesmiclase {
+  font-weight: bold;
+  color: rgba(107, 4, 155, 0.89);
+  }
+
+
+#principal {
+  border: solid 1px black;
+  width: 80%;
+  margin: 0 auto;
+  padding: 5px;
+  }
+
+/** 
+  Fuentes: W3schools, Developer Mozilla, Videos de Youtube
+  */
+
+
